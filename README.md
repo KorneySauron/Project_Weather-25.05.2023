@@ -1,15 +1,10 @@
-API для определения координат:
+API to determine the coordinates:
 https://www.geojs.io/docs/v1/endpoints/ip/
 
-API для прогногза погоды:
-https://open-meteo.com/
-API для определения координат:
-https://www.geojs.io/docs/v1/endpoints/ip/
-
-API для прогногза погоды:
+API for the weather forecast:
 https://open-meteo.com/
 
-1. показывал температуру и расшифрованный код
-2. были стили шрифты картинки 
-3. деплой на gitPages
-4. Readme c описанием проекта и ссылкой на pages
+1. show the temperature and the decrypted code
+2. there are styles fonts pictures 
+3. deploy on gitPages
+4. Readme with a description of the project and a link to pages
